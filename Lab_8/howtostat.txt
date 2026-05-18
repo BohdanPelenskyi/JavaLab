@@ -1,0 +1,2 @@
+javac *.java
+java Main mynumbers.txt 1 100
